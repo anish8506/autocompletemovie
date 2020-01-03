@@ -11,7 +11,7 @@ $ brew install node
 ```
 
 * API URL: http://www.omdbapi.com/
-  Apikey='2a863c81'
+  
 
 Clone the repo and install dependencies:
 
