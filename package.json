@@ -4,7 +4,7 @@
   "description": "A React project that shows how to write an imput with autocomplete",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --config webpack.dev.js --env.API_KEY=$(echo $M_APIKEY)"
+    "dev": "webpack-dev-server --config webpack.dev.js --env.API_KEY=$(echo $M_API_KEY)"
   },
   "author": "Stefan Age",
   "license": "ISC",
