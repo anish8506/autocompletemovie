@@ -10,7 +10,7 @@ These instructions will get a copy of the project running on your local machine.
 $ brew install node
 ```
 
-* API URL: http://www.omdbapi.com/
+*  An API key from: http://www.omdbapi.com/
   
 
 Clone the repo and install dependencies:
