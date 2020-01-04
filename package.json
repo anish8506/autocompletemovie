@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.js --env.API_KEY=$(echo $M_API_KEY)"
   },
-  "author": "Stefan Age",
+  "author": "Anish Shetty",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.10.0",
