@@ -10,7 +10,7 @@ These instructions will get a copy of the project running on your local machine.
 $ brew install node
 ```
 
-
+* API URL: http://www.omdbapi.com/
   
 
 Clone the repo and install dependencies:
@@ -29,4 +29,4 @@ Finally, run the app on a local server. Application will automatically launch in
 ```
 $ npm run dev 
 ```
-* API URL: http://www.omdbapi.com/
+
