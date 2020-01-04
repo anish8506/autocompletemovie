@@ -21,7 +21,7 @@ type State = {
        let movies = []
       //setState({
       	if (data.Search) {
-      	   console.log('data = ', data.Search[0])
+      	   
 
       	   for (let i = 0; i < data.Search.length; i++) { 
              movies.push({value: data.Search[i].Title, 
