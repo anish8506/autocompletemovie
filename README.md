@@ -10,18 +10,19 @@ These instructions will get a copy of the project running on your local machine.
 $ brew install node
 ```
 
-*  An API key from: http://www.omdbapi.com/
+*  To get the  API key, sign up on : http://omdbapi.com/apikey.aspx
   
 
 Clone the repo and install dependencies:
 
 ```
+$ cd autocompletemovie
 $ npm i
 ```
-The 'dev' script is setup to pull an MGRPH_KEY from your bash environment. Define MGRPH_KEY:
+The 'dev' script is setup to pull an M_API_KEY from your bash environment. Define M_API_KEY:
 
 ```
-$ export MGRPH_KEY=yourAPIkey
+$ export M_API_KEY=yourAPIkey
 ```
 
 Finally, run the app on a local server. Application will automatically launch in your default browser:
