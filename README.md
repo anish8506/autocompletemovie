@@ -25,7 +25,7 @@ The 'dev' script is setup to pull an M_API_KEY from your bash environment. Defin
 $ export M_API_KEY=yourAPIkey
 ```
 
-Finally, run the app on a local server. Application will automatically launch in your default browser:
+Finally, run the app. Application will automatically launch in your default browser:
 
 ```
 $ npm run dev 
